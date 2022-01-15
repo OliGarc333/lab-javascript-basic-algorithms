@@ -1,6 +1,9 @@
-// Iteration 1: Names and Input
+let hacker1 = "Peter"
+console.log (`The driver's name is ${hacker1}`);
 
-// Iteration 2: Conditionals
+let hacker2 = "Howard"
+console.log (`The navigator's name is ${hacker2}`);
 
+console.log(`It seems that the navigator has the longest name, it has ${hacker2.length} characters.`)
 
-// Iteration 3: Loops
+console.log (hacker1.toUpperCase());
